@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.breadcrumbdata</groupId>
-	<artifactId>auth_server</artifactId>
+	<artifactId>auth-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>auth_server</name>
+	<name>auth-server</name>
 	<description>Auth server for Breadcrumb Data Location Engine</description>
 
 	<properties>
